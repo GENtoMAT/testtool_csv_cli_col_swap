@@ -28,8 +28,8 @@ CSV列入れ替え: 指定したCSVファイルの任意の2つの列の順序�
 ## インストール
 
 ```
-$ git clone https://github.com/TomoakiTANAKA/awesome-tool
-$ cd awesome-tool
+$ git clone git@github.com:GENtoMAT/testtool_csv_cli_swap.git
+$ cd testtool_csv_cli_swap
 ```
 
 ## その他
